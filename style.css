@@ -132,3 +132,15 @@ input[type="submit"]:hover{
     margin-left: -3px;
     top: 70%;
 }
+.data{
+    display: none;
+}
+.g-signin2{
+    position: absolute;
+    top: 60%;
+    left: 70%;
+    margin-top: -50px;
+    margin-left: -50px;
+    
+
+}
